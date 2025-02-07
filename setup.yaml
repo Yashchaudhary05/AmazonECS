@@ -15,7 +15,7 @@ Mappings:
     ap-northeast-1: {Domain: ap-northeast-1.compute.internal}
     ap-northeast-2: {Domain: ap-northeast-2.compute.internal}
     eu-north-1: {Domain: eu-north-1.compute.internal}  # Added missing region mapping
-
+    ap-south-1: {Domain: eu-north-1.compute.internal} 
 Parameters:
   VSCodeServerPassword:
     Description: The password for the VS Code server
